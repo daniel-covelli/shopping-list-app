@@ -12,7 +12,7 @@ To install all dependencies with run:
 
 Server runs on http://localhost:5001 and client on http://localhost:3000
 
-## Project Info
+### Project Info
 
 Project Creator: [Brad Traversy](http://www.traversymedia.com)
 
