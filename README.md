@@ -7,9 +7,10 @@
 ## Quick Start
 To install all dependencies with run:
 > npm install
+
 > npm run client-install
 
-# Server runs on http://localhost:5001 and client on http://localhost:3000
+Server runs on http://localhost:5001 and client on http://localhost:3000
 
 ## Project Info
 
