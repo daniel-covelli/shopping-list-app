@@ -23,3 +23,7 @@ Project Walkthrough: [Youtube](https://www.youtube.com/playlist?list=PLillGF-Rfq
 ### License
 
 MIT License
+
+### Aside
+
+I use this app to make my weekly grocery list. Please dont delete my items 🙏
