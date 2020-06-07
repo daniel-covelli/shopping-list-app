@@ -6,9 +6,9 @@ Link: https://glacial-brushlands-17423.herokuapp.com/
 
 ## Quick Start
 To install all dependencies with run:
-> npm install
+> `npm install`
 
-> npm run client-install
+> `npm run client-install`
 
 Server runs on http://localhost:5001 and client on http://localhost:3000
 
