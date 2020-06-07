@@ -1,6 +1,6 @@
 # shopping-list-app 🗒 🥑
 
-> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
+Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
 Link: https://glacial-brushlands-17423.herokuapp.com/
 
